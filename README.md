@@ -10,7 +10,16 @@
 
 ---
 
-### 🐱‍💻 关于我 (About Me)
+### � GitHub 统计 (Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=radical" alt="C-4-C-4 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-4-C-4&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+### �🐱‍💻 关于我 (About Me)
 
 - 🔭 **我目前正在开发**: 看下面 (Check below)
 - 🌱 **我正在学习**: 
@@ -22,7 +31,7 @@
 
 ---
 
-### �️ 技术栈 (Tech Stack)
+### 🛠️ 技术栈 (Tech Stack)
 
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
@@ -33,16 +42,19 @@
 
 ---
 
-### 📊 GitHub 统计 (Stats)
+### � 贪吃蛇 (Snake Contribution Graph)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=radical" alt="C-4-C-4 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-4-C-4&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C-4-C-4/C-4-C-4/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C-4-C-4/C-4-C-4/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/C-4-C-4/C-4-C-4/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-### �📫 联系我 (Connect with me)
+### � 联系我 (Connect with me)
 
 <p align="left">
 <a href="mailto:slxz3238@gmail.com">
