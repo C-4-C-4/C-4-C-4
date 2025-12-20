@@ -10,10 +10,10 @@
 
 ---
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>‍💻 关于我 (About Me)</h3>
+      <h3>🐱‍💻 关于我 (About Me)</h3>
       <ul>
         <li>🔭 <strong>我目前正在开发</strong>: 看下面 (Check below)</li>
         <li>🌱 <strong>我正在学习</strong>: <br>
