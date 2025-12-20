@@ -3,33 +3,43 @@
 </div>
 
 <div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td align="center">📛 <b>Name</b></td>
-        <td align="left">CCCC4444</td>
-      </tr>
-      <tr>
-        <td align="center">🧨 <b>Gender</b></td>
-        <td align="left">TNT</td>
-      </tr>
-      <tr>
-        <td align="center">📍 <b>Location</b></td>
-        <td align="left">Guangdong, China</td>
-      </tr>
-      <tr>
-        <td align="center">📝 <b>Bio</b></td>
-        <td align="left">是C4而不是C4</td>
-      </tr>
-      <tr>
-        <td align="center">📧 <b>Email</b></td>
-        <td align="left"><a href="mailto:slxz3238@gmail.com">slxz3238@gmail.com</a></td>
-      </tr>
-      <tr>
-        <td align="center">🆔 <b>ORCID</b></td>
-        <td align="left"><a href="https://orcid.org/0009-0001-0401-8385">0009-0001-0401-8385</a></td>
-      </tr>
-    </tbody>
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <table>
+          <tbody>
+            <tr>
+              <td align="center">📛 <b>Name</b></td>
+              <td align="left">CCCC4444</td>
+            </tr>
+            <tr>
+              <td align="center">🧨 <b>Gender</b></td>
+              <td align="left">TNT</td>
+            </tr>
+            <tr>
+              <td align="center">📍 <b>Location</b></td>
+              <td align="left">Guangdong, China</td>
+            </tr>
+            <tr>
+              <td align="center">📝 <b>Bio</b></td>
+              <td align="left">是C4而不是C4</td>
+            </tr>
+            <tr>
+              <td align="center">📧 <b>Email</b></td>
+              <td align="left"><a href="mailto:slxz3238@gmail.com">slxz3238@gmail.com</a></td>
+            </tr>
+            <tr>
+              <td align="center">🆔 <b>ORCID</b></td>
+              <td align="left"><a href="https://orcid.org/0009-0001-0401-8385">0009-0001-0401-8385</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td valign="top" width="50%" align="center">
+        <h3>📊 Github Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=transparent&hide_border=true" alt="C-4-C-4's GitHub stats" />
+      </td>
+    </tr>
   </table>
 </div>
 
