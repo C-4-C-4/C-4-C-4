@@ -26,8 +26,8 @@
 
 <!-- 这是一个通常大家也喜欢的贪吃蛇动画（可选） -->
 <!-- 如果你想用这个，也需要配置相应的 Action，如果不想用可以删掉 -->
-<!--
+
 <div align="center">
   <img src="https://github.com/C-4-C-4/C-4-C-4/blob/output/github-contribution-grid-snake.svg" />
 </div>
--->
+
