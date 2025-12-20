@@ -34,10 +34,6 @@
             </tr>
           </tbody>
         </table>
-      </td>
-      <td valign="top" width="50%" align="center">
-        <h3>📊 Github Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=transparent&hide_border=true" alt="C-4-C-4's GitHub stats" />
         <h3>🛠️ Tech Stack</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -48,6 +44,10 @@
           <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         </div>
+      </td>
+      <td valign="top" width="50%" align="center">
+        <h3>📊 Github Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=transparent&hide_border=true" alt="C-4-C-4's GitHub stats" />
       </td>
     </tr>
   </table>
