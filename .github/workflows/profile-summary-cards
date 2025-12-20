@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # 每天运行一次
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 允许手动运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # 这里可以选主题，截图里的是 'solarized_dark' 或者 'night'
+          # 可选: default, solarized, solarized_dark, night, onedark, 等等
+          THEME: night
