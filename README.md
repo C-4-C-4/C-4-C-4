@@ -2,6 +2,37 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+C-4-C-4!+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">📛 <b>Name</b></td>
+        <td align="left">CCCC4444</td>
+      </tr>
+      <tr>
+        <td align="center">🧨 <b>Gender</b></td>
+        <td align="left">TNT</td>
+      </tr>
+      <tr>
+        <td align="center">📍 <b>Location</b></td>
+        <td align="left">Guangdong, China</td>
+      </tr>
+      <tr>
+        <td align="center">📝 <b>Bio</b></td>
+        <td align="left">是C4而不是C4</td>
+      </tr>
+      <tr>
+        <td align="center">📧 <b>Email</b></td>
+        <td align="left"><a href="mailto:slxz3238@gmail.com">slxz3238@gmail.com</a></td>
+      </tr>
+      <tr>
+        <td align="center">🆔 <b>ORCID</b></td>
+        <td align="left"><a href="https://orcid.org/0009-0001-0401-8385">0009-0001-0401-8385</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=147143261" target="_blank" style="display: block" align="center">
