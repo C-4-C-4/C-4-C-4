@@ -47,7 +47,11 @@
       </td>
       <td valign="top" width="50%" align="center">
         <h3>📊 Github Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=transparent&hide_border=true" alt="C-4-C-4's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="C-4-C-4's GitHub stats" />
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-4-C-4&theme=radical&hide_border=true" alt="C-4-C-4's GitHub Streak" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-4-C-4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
