@@ -5,32 +5,32 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td valign="top" width="50%">
-        <table>
+      <td valign="top" align="center">
+        <table align="center">
           <tbody>
             <tr>
               <td align="center">📛 <b>Name</b></td>
-              <td align="left">CCCC4444</td>
+              <td align="center">CCCC4444</td>
             </tr>
             <tr>
               <td align="center">🧨 <b>Gender</b></td>
-              <td align="left">TNT</td>
+              <td align="center">TNT</td>
             </tr>
             <tr>
               <td align="center">📍 <b>Location</b></td>
-              <td align="left">Guangdong, China</td>
+              <td align="center">Guangdong, China</td>
             </tr>
             <tr>
               <td align="center">📝 <b>Bio</b></td>
-              <td align="left">是C4而不是C4</td>
+              <td align="center">是C4而不是C4</td>
             </tr>
             <tr>
               <td align="center">📧 <b>Email</b></td>
-              <td align="left"><a href="mailto:slxz3238@gmail.com">slxz3238@gmail.com</a></td>
+              <td align="center"><a href="mailto:slxz3238@gmail.com">slxz3238@gmail.com</a></td>
             </tr>
             <tr>
               <td align="center">🆔 <b>ORCID</b></td>
-              <td align="left"><a href="https://orcid.org/0009-0001-0401-8385">0009-0001-0401-8385</a></td>
+              <td align="center"><a href="https://orcid.org/0009-0001-0401-8385">0009-0001-0401-8385</a></td>
             </tr>
           </tbody>
         </table>
@@ -44,14 +44,6 @@
           <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         </div>
-      </td>
-      <td valign="top" width="50%" align="center">
-        <h3>📊 Github Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=C-4-C-4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="C-4-C-4's GitHub stats" />
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-4-C-4&theme=radical&hide_border=true" alt="C-4-C-4's GitHub Streak" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-4-C-4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
