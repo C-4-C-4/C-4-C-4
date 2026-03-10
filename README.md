@@ -18,7 +18,7 @@
             </tr>
             <tr>
               <td align="center">📍 <b>Location</b></td>
-              <td align="center">Guangdong, China</td>
+              <td align="center">粵港澳大灣區</td>
             </tr>
             <tr>
               <td align="center">📝 <b>Bio</b></td>
